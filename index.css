@@ -1,0 +1,30 @@
+*{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+body{
+    background-color:rgb(192, 191, 191);
+}
+
+.title{
+    text-align: center;
+    font-size:4.8rem;
+}
+
+.list{
+    text-align: center;
+    font-size: 1.6rem;
+    position: relative;
+    
+}
+
+.recipe-list{
+    text-align: center;
+    padding: 1em;
+    list-style-type: none;
+}
+.recipe-list li{
+    margin-bottom: 5px;
+    
+}
